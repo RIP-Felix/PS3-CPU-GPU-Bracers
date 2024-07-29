@@ -11,7 +11,6 @@ Sand it down to exactly 1mm and trim it as needed to fit. Place under the PlaySt
 
 Place the RF shield back on and the backplate should hold it in position to allow your to finish assembling the console. 
 
-BACKGROUND
-Originally, SONY made and used these to restore contact between the Die and IHS, to avoid having to delid or replace the CPU. It restores contact with what little existing thermal paste is left. Even though the paste on the die is worn out and will fail again (who knows how soon), SONY's refurbishment centers did not delid. That's just not how they conduct repairs. They would have had to replace the CPU entirely, which is a difficult and expensive process. This brace was a cheap and dirty solution that kicked the ball down the road. It allowed them to send a console back and have it last beyond the 3-month warranty without overheating. And it's not the recommended method to fix an overheating PS3!
+BACKGROUND - Originally, SONY made and used these to restore contact between the Die and IHS, to avoid having to delid or replace the CPU. It restores contact with what little existing thermal paste is left. Even though the paste on the die is worn out and will fail again (who knows how soon), SONY's refurbishment centers did not delid. That's just not how they conduct repairs. They would have had to replace the CPU entirely, which is a difficult and expensive process. This brace was a cheap and dirty solution that kicked the ball down the road. It allowed them to send a console back and have it last beyond the 3-month warranty without overheating. And it's not the recommended method to fix an overheating PS3!
 
 
